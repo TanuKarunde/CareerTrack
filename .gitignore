@@ -1,0 +1,17 @@
+# Frontend
+careertrack-frontend/node_modules/
+careertrack-frontend/dist/
+careertrack-frontend/.env
+careertrack-frontend/.env.local
+
+# Backend
+careertrack-backend/target/
+careertrack-backend/.env
+careertrack-backend/src/main/resources/application.properties
+
+# IDE
+.vscode/
+.idea/
+.metadata/
+.DS_Store
+Thumbs.db
